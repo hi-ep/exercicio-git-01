@@ -1,2 +1,2 @@
-# reposit-rio01
+# repositorio01
 Descrição
